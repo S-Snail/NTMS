@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>  
+ <LinearLayout xmlns:Android="http://schemas.android.com/apk/res/android"  
+    Android:orientation="vertical" 
+    Android:id="@+id/ShowCopyLayout" 
+    Android:layout_width="420dip"   
+    Android:background="@drawable/shape"
+    Android:layout_height="220dip">  
+
+    <TextView 
+       Android:id="@+id/showFileNum"
+       Android:layout_width="wrap_content"
+       Android:layout_height="24dip"  
+       Android:textColor="#000"
+       Android:layout_marginLeft="40dip" 
+       Android:layout_marginTop="20dip" 
+       Android:layout_marginBottom="20dip" 
+       Android:singleLine="true"
+       Android:textSize="18sp"/>
+    
+   <TextView 
+       Android:id="@+id/showDiskSize"
+       Android:layout_width="wrap_content"
+       Android:layout_height="24dip"  
+       Android:textColor="#000"
+       Android:layout_marginTop="5dip" 
+       Android:layout_marginLeft="40dip" 
+       Android:layout_marginBottom="20dip" 
+       Android:singleLine="true"
+       Android:textSize="18sp"/>
+        
+    <TextView 
+       Android:id="@+id/showFileName"
+       Android:layout_width="wrap_content"
+       Android:layout_height="24dip"  
+       Android:textColor="#000"
+       Android:layout_marginTop="5dip" 
+       Android:layout_marginLeft="40dip" 
+       Android:layout_marginBottom="20dip" 
+       Android:singleLine="true"
+       Android:textSize="18sp"/>
+    
+     <ProgressBar Android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        Android:layout_width="340dip"
+        Android:layout_height="30dip"
+        Android:maxHeight="26dip" 
+        Android:minHeight="26dip"
+        Android:layout_marginTop="5dip" 
+        Android:layout_marginLeft="40dip" 
+        Android:max="100"
+        Android:progress="2"/>    
+
+ </LinearLayout>  

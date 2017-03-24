@@ -1,0 +1,7 @@
+#Thu Mar 23 13:44:18 CST 2017
+base.0=F\:\\ntms\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1687af0838684ddcd45c6472fe9cfe6f8a6cf461
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\ntms\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2b3c0cc51a00229e78c5e810730c93a6f67c362d\\classes.dex
+base.1=F\:\\ntms\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2b3c0cc51a00229e78c5e810730c93a6f67c362d
+file.0=F\:\\ntms\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1687af0838684ddcd45c6472fe9cfe6f8a6cf461\\classes.dex

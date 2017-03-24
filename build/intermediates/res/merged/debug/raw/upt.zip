@@ -1,0 +1,1 @@
+pm install -r /mnt/sdcard/ntms/update/ntms.apk && am start -n com.ntms/.MainActivity &

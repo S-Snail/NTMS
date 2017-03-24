@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\panel2.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\panel2.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hour.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\hour.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\min.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\min.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ldown2.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\ldown2.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sec.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\sec.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\panel.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\panel.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lup.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\lup.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\lup2.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\lup2.png"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ldown.png",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\ldown.png"
+    }
+]

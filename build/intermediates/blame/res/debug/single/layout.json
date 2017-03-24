@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\layout\\show_cpy.xml",
+        "source": "F:\\ntms\\res\\layout\\show_cpy.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\layout\\passwd.xml",
+        "source": "F:\\ntms\\res\\layout\\passwd.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ntms\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\layout\\cfg_ntms.xml",
+        "source": "F:\\ntms\\res\\layout\\cfg_ntms.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\layout\\pwsd.xml",
+        "source": "F:\\ntms\\res\\layout\\pwsd.xml"
+    }
+]

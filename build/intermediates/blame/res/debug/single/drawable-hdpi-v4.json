@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\lstshape.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\lstshape.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shape.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapey.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapey.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapes.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapes.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapeframe.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapeframe.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapez.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapez.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\btn.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapeedit.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapeedit.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapep.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapep.xml"
+    },
+    {
+        "merged": "F:\\ntms\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shapex.xml",
+        "source": "F:\\ntms\\res\\drawable-hdpi\\shapex.xml"
+    }
+]

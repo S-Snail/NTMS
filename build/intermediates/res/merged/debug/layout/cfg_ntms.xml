@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical"
+	android:layout_width="480px" 
+	android:layout_height="480px"
+	android:background="@drawable/shape"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:orientation="horizontal" 
+        android:layout_marginLeft="299px"
+        android:layout_marginTop="5px">     
+       <Button android:id="@+id/btnSetting"    
+	        android:layout_width="56px"
+	        android:layout_height="26px"
+	        android:background="@drawable/btn" 
+	        android:text="Setting"  
+		    android:textSize="14px"
+	        android:layout_margin="1px"/>
+       <Button android:id="@+id/btnExit"    
+	        android:layout_width="56px"
+	        android:layout_height="26px"
+	        android:background="@drawable/btn" 
+	        android:text="Exit"  
+		    android:textSize="14px"
+	        android:layout_margin="1px"/>
+       <Button android:id="@+id/btnColse"    
+	        android:layout_width="56px"
+	        android:layout_height="26px"
+	        android:layout_marginRight="10px"
+	        android:background="@drawable/btn" 
+	        android:text="Close"  
+		    android:textSize="14px"
+	        android:layout_margin="1px"/>                    
+   </LinearLayout> 
+   <LinearLayout 
+        android:orientation="horizontal" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"	
+		android:layout_marginTop="35px"
+		android:layout_gravity="center|top"
+		android:paddingBottom="1px">
+	 	<Button
+		    android:id="@+id/btnTime"
+		    android:layout_marginLeft="5dip"
+		    android:layout_width="60px"
+		    android:layout_height="28px"		     
+	      	android:textSize="14px"
+	      	android:text="Time"
+	      	android:background="@drawable/shapex" />     	
+		<Button
+		    android:id="@+id/btnOnOffWeek"
+		    android:layout_width="76px"
+		    android:layout_height="28px"		    
+	      	android:textSize="14px"
+	      	android:text="WeekPower"
+	      	android:background="@drawable/shapey" />  
+	    <Button
+		    android:id="@+id/btnOnOffDay"
+		    android:layout_width="76px"
+		    android:layout_height="28px"		    
+	      	android:textSize="14px"
+	      	android:text="DayPower"
+	      	android:background="@drawable/shapey" />    
+		<Button
+		    android:id="@+id/btnNet"
+		    android:layout_width="70px"
+		    android:layout_height="28px"
+	      	android:textSize="14px"
+	      	android:text="Net"
+	      	android:background="@drawable/shapey" />  			
+		<Button
+		     android:id="@+id/btnFtp"
+		    android:layout_width="60px"
+		    android:layout_height="28px"		    
+	      	android:textSize="14px"
+	      	android:text="FTP"
+	      	android:background="@drawable/shapey" />  
+		<Button
+		    android:id="@+id/btnFile"
+		    android:layout_width="60px"
+		    android:layout_height="28px"		    
+	      	android:textSize="14px"
+	      	android:text="File"
+	      	android:background="@drawable/shapey" />  
+		<Button
+		    android:id="@+id/btnSet"
+		    android:layout_width="66px"
+		    android:layout_height="28px"		    
+	      	android:textSize="14px"
+	      	android:text="Set"
+	      	android:background="@drawable/shapey" />  	      		      			
+    </LinearLayout>     
+ 
+    <LinearLayout 
+        android:orientation="horizontal" 
+		android:layout_width="wrap_content" 
+		android:layout_height="fill_parent"	
+		android:layout_marginTop="65px"	
+		android:layout_marginLeft="20px"
+		android:layout_gravity="center">
+		<RelativeLayout 
+		    android:id="@+id/layTitle"
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">    	
+        </RelativeLayout>
+       
+	    <RelativeLayout 
+	        android:id="@+id/layTime"
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">	    	 
+		</RelativeLayout> 
+	    <RelativeLayout 
+	        android:id="@+id/layOnOffWeek"
+	        android:orientation="vertical" 
+	         android:visibility="gone"
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">       
+		</RelativeLayout>  
+	    <RelativeLayout 
+	        android:id="@+id/layOnOffDay"
+	        android:visibility="gone"
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">
+<!-- 	
+	        AUTO ON/OFF            OFF
+	        ON/OFF 1               00:00 00:00
+	        ON/OFF 2               00:00 00:00	        
+	        ON/OFF 3               00:00 00:00
+	        ON/OFF 4               00:00 00:00	        
+	        ON/OFF 5               00:00 00:00	        	        
+	        ON/OFF 6               00:00 00:00	        
+	        ON/OFF 7               00:00 00:00
+-->	        	        
+		</RelativeLayout> 		
+	    <RelativeLayout 
+	        android:id="@+id/layNet"
+	        android:visibility="gone"
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">
+<!-- 			
+	        SERVER IP     1920.168.1.1
+	        SERVER PORT   8900
+	        DHCP          DISABLE
+	        LOCAL IP      192.168.1.1
+	        NETMASK
+	        GATEWAY       
+	        PING 
+-->	                 
+		</RelativeLayout> 
+	    <RelativeLayout 
+	        android:id="@+id/layFtp"
+	        android:visibility="gone"	        
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">
+<!-- 			
+			FTP1 IP
+			FTP1 PORT
+			FTP1 USER 
+	        FTP1 PASSWORD
+	        
+	        FTP2 IP
+			FTP2 PORT
+			FTP2 USER 
+	        FTP2 PASSWORD
+-->	        
+		</RelativeLayout> 	
+	    <RelativeLayout 
+	        android:id="@+id/layFile"
+	        android:visibility="gone"	        
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">
+<!-- 
+	       COPY DISK 
+	       CLEAR DISK
+	       COPY PLAYLOG
+	       DISK SIZE
+	       DISK USAGE
+	       FILE VALIDATION  OFF
+	       AUOT COPY    ON
+	       SAVE PLAYLOG  OFF 
+-->	          
+		</RelativeLayout>     
+	    <RelativeLayout 
+	        android:id="@+id/laySet"
+	        android:visibility="gone"	        
+	        android:orientation="vertical" 
+			android:layout_width="240px" 
+			android:layout_height="fill_parent"		
+			android:layout_gravity="center">
+<!-- 			
+	        VOLUME   50
+	        NEW PASSWD
+	        CONFIRM PASSWD
+	        ROTATION 0
+	        UPDATE FIRMWARE
+-->	        
+		</RelativeLayout>     
+    </LinearLayout>
+</RelativeLayout>

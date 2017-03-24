@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:background="@drawable/shape"
+    android:layout_width="200dip" 
+    android:layout_height="120dip"
+    android:orientation="vertical" >    
+		
+    	 <RelativeLayout 
+	        android:id="@+id/pdLay"
+	        android:orientation="horizontal" 
+			android:layout_width="200dip" 	
+			android:layout_gravity="center_vertical"
+			android:layout_height="120dip">	
+
+    	  <EditText
+	        android:id="@+id/txtPwd"
+	        android:layout_width="125dip"
+	        android:layout_height="26dip"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginTop="40dip"
+	        android:background="@drawable/shape"
+	        android:hint="passwd"
+	        android:inputType="textPassword"
+	        android:maxLength="15"
+	        android:textSize="12sp" />   
+    	     
+    	   <Button android:id="@+id/btnOk"    
+	        android:layout_width="50dip"
+	        android:layout_height="26dip"
+	        android:layout_marginLeft="140dip"
+	        android:layout_marginTop="40dip"
+	        android:background="@drawable/btn" 
+	        android:text="OK"  
+		    android:textSize="14sp"/>  
+	    </RelativeLayout>
+</LinearLayout><!-- From: file:/C:/Users/WIN10/Desktop/临时文件/ntms/res/layout/pwsd.xml -->

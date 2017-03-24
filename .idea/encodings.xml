@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/cfg/set.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ntms/BootReceiver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ntms/baseFun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/play/text.java" charset="GBK" />
+  </component>
+</project>
